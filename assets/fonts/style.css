@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'GenJyuuGothicL-Monospace-Bold';
+   font-display: swap;
+   src: url('GenJyuuGothicL-Monospace-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'GenJyuuGothic-Regular';
+   font-display: swap;
+   src: url('GenJyuuGothic-Regular/font.ttf');
+}
